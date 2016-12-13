@@ -10,7 +10,7 @@ The cpp directory contains codes of our model for economic recommendation based 
 utiltiy maximization.
 
 
-We appreciate your citation of the following paper if you use the data or code in this project.
+We appreciate your citation of the following papers if you use the data or code in this project.
 
 [1] Qi Zhao, Yongfeng Zhang, Yi Zhang, and Daniel Friedman. "Multi-Product Utility Maximization for Economic Recommendation." In Proceedings of the 10th International Conference on Web Search and Data Mining (WSDM'17). Association for Computing Machinery, 2017.
 
